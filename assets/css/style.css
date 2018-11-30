@@ -1,0 +1,45 @@
+#GameName {
+    font-size: 50px;
+    color: purple;
+}
+
+#ChoosenNumberTitle {
+    font-size: 20px;
+    color:  rgb(86, 66, 133);
+}
+
+#ScoreTitle {
+    font-size: 20px;
+    color:  rgb(86, 66, 133);
+}
+
+#mathRandom1 {
+    font-size: 20pt;
+    color: purple;
+    background-color: rgb(228, 194, 238);
+    height: 100px;
+    padding: 10px;
+}
+
+#Total_Score {
+    font-size: 20pt;
+    color: purple;
+    background-color: rgb(228, 194, 238);
+    height: 100px;
+    padding: 10px;
+}
+
+.stats {
+    font-size: 15pt;
+    color: blue;
+    background-color: lightblue;
+    height: 100px;
+    padding: 20px;
+}
+
+#instructions {
+    font-size: 12pt;
+    color: rgb(224, 10, 231);
+    font-style: italic;
+    margin-inline-start: 20px;
+}
