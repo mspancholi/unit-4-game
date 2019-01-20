@@ -11,3 +11,6 @@ You win the game by matching your total score to random number, you lose the gam
 The value of each crystal is hidden from you until you click on it.
 
 Each time when the game starts, the game will change the value of each crystal.
+
+Deployed Site:
+https://mspancholi.github.io/mspancholi.github.io-unit-4-game/
